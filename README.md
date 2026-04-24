@@ -10,7 +10,8 @@ ognition based door security system built on **Raspberry Pi 4** using computer v
 
 > Live face detection with bounding boxes, temperature check, and LED indicators — all accessible from a browser on the same network.
 
-![Smart Door Demo](https://github.com/user-attachments/assets/c533f05d-0d3c-446f-bbbc-65c1a1efac11)
+
+https://github.com/user-attachments/assets/c533f05d-0d3c-446f-bbbc-65c1a1efac11
 
 
 ---
