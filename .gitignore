@@ -1,0 +1,6 @@
+known_faces/*.jpg
+known_faces/*.jpeg
+known_faces/*.png
+*.pt
+__pycache__/
+*.pyc
